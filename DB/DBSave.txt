@@ -1,0 +1,9 @@
+goulot
+_o__ot
+6
+3
+3
+rzi
+abcdefghjklmnpqsuvwxy
+DB/wordsEasy.txt
+DB/AsciiArtStandard.txt

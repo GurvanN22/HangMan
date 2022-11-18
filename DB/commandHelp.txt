@@ -1,0 +1,5 @@
+exit or -e or leave - Exit the game 
+save or -s To save your game if you have to go ! 
+help or -h Show you all the command 
+If you put 2 letters separate by a space it will verify the two letters, careful because if there are false you will lose two remains !
+If you want you can put 10 !
