@@ -1,4 +1,4 @@
-package Hangman
+package src
 
 func InitToadd(array []string) []string { //Here we create the "empty" array with "_" we replace letters
 	var result []string

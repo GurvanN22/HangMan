@@ -1,4 +1,4 @@
-package Hangman
+package src
 
 //This function is the core of the whole Hangman who link all functions and transmit informations , the Hangman end want the end condition is true
 func Base(db []string, array []string, toAdd []string, lenght int, trueValue int, falseValue int, usedValues []string, remain []string, NameDB string, displayType string) string {

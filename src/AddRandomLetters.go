@@ -1,4 +1,4 @@
-package Hangman
+package src
 
 func AddRandomLtrs(entry []string, word []string) ([]string, int, []string) {
 	/*function to add a few random letters to the word according to its length*/

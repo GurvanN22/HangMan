@@ -1,4 +1,4 @@
-package Hangman
+package src
 
 func specialCaractere(letter string) string {
 	if letter == "é" || letter == "è" || letter == "ê" {
